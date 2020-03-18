@@ -12,15 +12,22 @@
 }
 
 #planetstable{
-	table-layout: fixed;
-	margin-left: auto;
+	padding: 0;
+	width: 75%;
+	height: 100%;
+	margin-left: auto
 	margin-right: auto;
 	border-collapse: collapse;
-	border: 2px solid #FF7F50;
+	border: 5px solid #FF7F50;
 }
 
 #planetstable th{
 	background-color: #F0E68C;
+	font-family: 'Playfair Display', serif;
+	font-size: 30px;
+	text-align: center;
+	color: #8B008B;
+	font-weight: bold;
 }
 #planetstable tr{
 	font-family: 'Indie Flower', cursive;
