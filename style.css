@@ -24,13 +24,14 @@
 #planetstable th{
 	background-color: #F0E68C;
 	font-family: 'Playfair Display', serif;
-	font-size: 24px;
+	font-size: 20px;
 	text-align: center;
 	color: #8B008B;
 	font-weight: bold;
 	border: 3px solid white;
 	padding: 5px;
-	height: 35px;
+	max-height: 150px;
+	max-width: 150px;
 
 }
 #planetstable td{
