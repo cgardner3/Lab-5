@@ -10,6 +10,7 @@
 	font-size: 64px;
 	color: #000080;
 	top: 0;
+	position: fixed;
 }
 
 #planetstable{
