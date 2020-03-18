@@ -1,0 +1,20 @@
+#solarsystem{
+	background-image: url(images/background.jpg);
+	background-size: 100% 100%;
+}
+
+#title{
+	text-align: center;
+	background-color: aqua;
+	font-family: 'Abril Fatface', cursive;
+	font-size: 64px;
+	font-color: #F0F8FF;
+}
+
+#copyright{
+	text-align: center;
+	background-color: #7FFFD4;
+	font-family: 'Righteous', cursive;
+	font-size: 32px;
+	font-color: #9400D3;
+}
