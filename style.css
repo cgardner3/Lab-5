@@ -28,6 +28,9 @@
 	font-weight: bold;
 	border: 3px solid white;
 }
+#planetstable td{
+	border: 3px solid white;
+}
 #planetstable tr{
 	font-family: 'Indie Flower', cursive;
 	text-align: center;
