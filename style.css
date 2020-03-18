@@ -8,13 +8,29 @@
 	background-color: aqua;
 	font-family: 'Abril Fatface', cursive;
 	font-size: 64px;
-	font-color: #F0F8FF;
+	color: #F0F8FF;
 }
 
+#planetstable{
+	table-layout: fixed;
+	width: 75%;
+	border-collapse: collapse;
+	border: 2px solid #FF7F50;
+}
+
+#planetstable th{
+	background-color: #F0E68C;
+}
+#planetstable tr:nth-child(even){
+	background-color: #4B0082;
+}
+#planetstable tr:nth-child(odd){
+	background-color: #20B2AA;
+}
 #copyright{
 	text-align: center;
 	background-color: #7FFFD4;
 	font-family: 'Righteous', cursive;
 	font-size: 32px;
-	font-color: #9400D3;
+	color: #9400D3;
 }
