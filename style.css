@@ -12,8 +12,10 @@
 }
 
 #planetstable{
-	width: 50%;
-	height: 360px;
+	width: 75%;
+	height: 500px;
+	resize: both;
+	overflow: auto;
 	margin: 0 auto 0 auto;
 	border-collapse: collapse;
 	border: 5px solid #FF7F50;
